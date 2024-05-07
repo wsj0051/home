@@ -1,0 +1,538 @@
+[
+    {
+        "title": "github加速",
+        "urls": [
+            {
+                "name": " 国内",
+                "url": "https://gitclone.com"
+            },
+            {
+                "name": "韩国",
+                "url": "https://gh-proxy.com/https://github.com"
+            },
+            {
+                "name": " 韩国",
+                "url": "https://mirror.ghproxy.com/https://github.com"
+            },
+            {
+                "name": " 韩国",
+                "url": "https://githubfast.com"
+            },
+            {
+                "name": " 新加坡",
+                "url": "https://github.moeyy.xyz/https://github.com"
+            },
+            {
+                "name": " 新加坡",
+                "url": "https://hub.fgit.mxtrans.net"
+            },
+            {
+                "name": " 新加坡",
+                "url": "https://raw.fgit.mxtrans.net"
+            },
+            {
+                "name": " 日本",
+                "url": "https://ghproxy.net/https://github.com"
+            },
+            {
+                "name": " 日本 2",
+                "url": "https://fastly.jsdelivr.net/gh"
+            },
+            {
+                "name": " 其他 1",
+                "url": "https://gcore.jsdelivr.net/gh"
+            },
+            {
+                "name": " 其他 1",
+                "url": "https://cdn.jsdelivr.ren/gh"
+            },
+            {
+                "name": " 其他 2",
+                "url": "https://jsdelivr.b-cdn.net/gh"
+            }
+        ]
+    },
+    {
+        "title": "github加速2",
+        "urls": [
+            {
+                "name": " 美国",
+                "url": "https://raw.fgit.cf"
+            },
+            {
+                "name": " 美国",
+                "url": "https://hub.nuaa.cf"
+            },
+            {
+                "name": " 美国",
+                "url": "https://raw.nuaa.cf"
+            },
+            {
+                "name": " 美国",
+                "url": "https://slink.ltd/https://github.com"
+            },
+            {
+                "name": " 美国",
+                "url": "https://hub.gitmirror.com/https://github.com"
+            },
+            {
+                "name": " 美国",
+                "url": "https://hub.fgit.cf"
+            }
+        ]
+    },
+    {
+        "title": "学习 编码",
+        "urls": [
+            {
+                "name": "Web | MDN",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web"
+            },
+            {
+                "name": "网易云课堂",
+                "url": "http://study.163.com/"
+            },
+            {
+                "name": "SegmentFault",
+                "url": "https://segmentfault.com/"
+            },
+            {
+                "name": "V2EX",
+                "url": "https://www.v2ex.com/"
+            },
+            {
+                "name": "ITeye",
+                "url": "http://www.iteye.com/"
+            },
+            {
+                "name": "开源中国",
+                "url": "http://www.oschina.net/"
+            },
+            {
+                "name": "CSDN.NET",
+                "url": "http://www.csdn.net/"
+            },
+            {
+                "name": "菜鸟教程",
+                "url": "http://www.runoob.com/"
+            },
+            {
+                "name": "Docker Hub",
+                "url": "https://hub.docker.com/"
+            },
+            {
+                "name": "Maven",
+                "url": "https://mvnrepository.com/"
+            },
+            {
+                "name": "海思芯NAS",
+                "url": "https://histb.com/"
+            },
+            {
+                "name": "终身教育平台",
+                "url": "http://le.ouchn.cn/#/home"
+            }
+        ]
+    },
+    {
+        "title": "破解 教程",
+        "urls": [
+            {
+                "name": "吾爱破解",
+                "url": "https://www.52pojie.cn/portal.php"
+            },
+            {
+                "name": "恩山无线论坛",
+                "url": "https://www.right.com.cn/forum/"
+            },
+            {
+                "name": "智能电视网",
+                "url": "https://www.znds.com/forum.php"
+            },
+            {
+                "name": "油猴中文网",
+                "url": "https://bbs.tampermonkey.net.cn/forum.php?fromuid=64657"
+            },
+            {
+                "name": "ScriptCat",
+                "url": "https://scriptcat.org/search"
+            },
+            {
+                "name": "福利吧",
+                "url": "https://fuliba2023.net/"
+            },
+            {
+                "name": "果核剥壳",
+                "url": "https://www.ghxi.com/"
+            },
+            {
+                "name": "萝卜论坛",
+                "url": "https://bbs.luobotou.org/forum.php?gid=1"
+            },
+            {
+                "name": "AriaNg 教程",
+                "url": "https://p3terx.com/archives/aria2-frontend-ariang-tutorial.html"
+            },
+            {
+                "name": "ZMX-IT论坛",
+                "url": "http://bbs.itzmx.com/"
+            }
+        ]
+    },
+    {
+        "title": "下载 搜索",
+        "urls": [
+            {
+                "name": "MSDN",
+                "url": "https://msdn.itellyou.cn/"
+            },
+            {
+                "name": "hellowindows",
+                "url": "https://hellowindows.cn/"
+            },
+            {
+                "name": "Office Tool",
+                "url": "https://otp.landian.vip/zh-cn/"
+            },
+            {
+                "name": "Bookzz",
+                "url": "https://www.bookzz.ren/"
+            },
+            {
+                "name": "找书网",
+                "url": "https://findbooks.eu.org/"
+            },
+            {
+                "name": "下载字幕",
+                "url": "https://subhd.tv/"
+            },
+            {
+                "name": "字幕库",
+                "url": "https://zimuku.org/"
+            },
+            {
+                "name": "射手网(伪)",
+                "url": "https://secure.assrt.net/"
+            },
+            {
+                "name": "MIUI-ROM",
+                "url": "https://roms.miuier.com/mobile/zh-cn/"
+            },
+            {
+                "name": "辅助狗 ",
+                "url": "https://www.fuzhugou.com/"
+            },
+            {
+                "name": "音乐磁场",
+                "url": "https://www.hifini.com/"
+            },
+            {
+                "name": "千帆搜索",
+                "url": "https://tg.qianfan.app/"
+            }
+        ]
+    },
+    {
+        "title": "影视 APP",
+        "urls": [
+            {
+                "name": "影视",
+                "url": "https://pan.v1.mk/"
+            },
+            {
+                "name": "TV版app",
+                "url": "#2kzz"
+            },
+            {
+                "name": "TV软件",
+                "url": "#43yn"
+            },
+            {
+                "name": "超级ITV",
+                "url": "#6hca"
+            },
+            {
+                "name": "电视直播",
+                "url": "#6666"
+            },
+            {
+                "name": "TVbox软件",
+                "url": "#4e93"
+            },
+            {
+                "name": "影视仓库",
+                "url": "http://wmdz.com/jk.html"
+            },
+            {
+                "name": "蜂蜜",
+                "url": "https://ewwe.gq/"
+            },
+            {
+                "name": "app分享",
+                "url": "https://yoyodadada.lanzoui.com/u/yoyodadada"
+            },
+            {
+                "name": "TVbox开源版",
+                "url": "?pwd=123"
+            },
+            {
+                "name": "iptvindex",
+                "url": "https://iptvindex.com/"
+            }
+        ]
+    },
+    {
+        "title": "网盘 入口",
+        "urls": [
+            {
+                "name": "天翼云盘",
+                "url": "https://cloud.189.cn/web/main/file/folder/-11"
+            },
+            {
+                "name": "联通云盘",
+                "url": "https://pan.wo.cn/pan/file_list/all"
+            },
+            {
+                "name": "移动云盘",
+                "url": "https://yun.139.com/w/#/index"
+            },
+            {
+                "name": "123云盘",
+                "url": "https://www.123pan.com/login"
+            },
+            {
+                "name": "华为云盘",
+                "url": "https://cloud.huawei.com/home#/home"
+            },
+            {
+                "name": "蓝奏云",
+                "url": "http://www.lanzou.com/u"
+            },
+            {
+                "name": "百度网盘",
+                "url": "https://pan.baidu.com/disk/main#/index?category=all"
+            },
+            {
+                "name": "阿里云盘",
+                "url": "https://www.aliyundrive.com/"
+            },
+            {
+                "name": "夸克",
+                "url": "https://pan.quark.cn/list#/list/all"
+            },
+            {
+                "name": "115",
+                "url": "https://115.com/"
+            },
+            {
+                "name": "Meow云",
+                "url": "https://pan.miaogongzi.net/home?path=%2F"
+            },
+            {
+                "name": "Sync.com",
+                "url": "https://cp.sync.com/login"
+            }
+        ]
+    },
+    {
+        "title": "自用",
+        "urls": [
+            {
+                "name": "v2rayN下载",
+                "url": "https://github.com/2dust/v2rayN/releases"
+            },
+            {
+                "name": "v2rayNG",
+                "url": "https://github.com/2dust/v2rayNG/releases"
+            },
+            {
+                "name": "MirrorSite",
+                "url": "https://githubfast.com/runningcheese/MirrorSite"
+            },
+            {
+                "name": "AriaNg",
+                "url": "http://wsj0051.gitee.io/home/AriaNg"
+            },
+            {
+                "name": "aria2-trackers",
+                "url": "https://sleele.gitee.io/aria2-trackers/"
+            },
+            {
+                "name": "trackerlist",
+                "url": "https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/all.txt"
+            },
+            {
+                "name": "Magisk Delta",
+                "url": "https://huskydg.github.io/magisk-files/"
+            },
+            {
+                "name": "VULTR",
+                "url": "https://my.vultr.com/"
+            },
+            {
+                "name": "极速云",
+                "url": "https://xn--fetx1ybsvkym.com/"
+            }
+        ]
+    },
+    {
+        "title": "路由 域名",
+        "urls": [
+            {
+                "name": "openwrt固件",
+                "url": "https://p.xiaowansm.repl.co/OneDrive/%F0%9F%94%A5OpenWrt_LEAN/%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A83GV2%E5%92%8C4A%E5%8D%83%E5%85%86%E7%89%88%EF%BC%88%E5%9B%BA%E4%BB%B6%E9%80%9A%E7%94%A8%EF%BC%89"
+            },
+            {
+                "name": "OpenWrt插件",
+                "url": "https://op.dllkids.xyz/packages/aarch64_cortex-a72/"
+            },
+            {
+                "name": "Openwrt插件2",
+                "url": "https://op.supes.top/packages/aarch64_cortex-a72/"
+            },
+            {
+                "name": "IPv6 测试",
+                "url": "https://test-ipv6.com/"
+            },
+            {
+                "name": "ipv6test",
+                "url": "https://ipv6-test.com/"
+            },
+            {
+                "name": "USTC测速",
+                "url": "https://test.ustc.edu.cn/"
+            },
+            {
+                "name": "DNSPod",
+                "url": "https://www.dnspod.cn/login"
+            },
+            {
+                "name": "Freenom",
+                "url": "https://my.freenom.com/clientarea.php"
+            },
+            {
+                "name": "Cloudflare",
+                "url": "https://dash.cloudflare.com/"
+            },
+            {
+                "name": "DDNSTO",
+                "url": "https://www.ddnsto.com/app/#/devices"
+            },
+            {
+                "name": "阿里云",
+                "url": "https://dns.console.aliyun.com"
+            },
+            {
+                "name": "dynv6",
+                "url": "https://dynv6.com/"
+            }
+        ]
+    },
+    {
+        "title": "电影 白嫖",
+        "urls": [
+            {
+                "name": "茶杯狐",
+                "url": "https://cupfox.app/"
+            },
+            {
+                "name": "MK影视",
+                "url": "https://www.mkvdo.com/"
+            },
+            {
+                "name": "大师兄",
+                "url": "https://dsxys.pro/"
+            },
+            {
+                "name": "来看点播",
+                "url": "https://www.lkvod.cc/"
+            },
+            {
+                "name": "HOHO TV",
+                "url": "https://www.hoho.tv/"
+            },
+            {
+                "name": "低端影视",
+                "url": "https://ddys.art/"
+            },
+            {
+                "name": "不太灵影视",
+                "url": "https://www.2bt0.com/"
+            },
+            {
+                "name": "白嫖TV",
+                "url": "https://baipiaotv.com/"
+            },
+            {
+                "name": "BT之家",
+                "url": "https://bt529.com/"
+            },
+            {
+                "name": "Jike社区",
+                "url": "https://jike.info/"
+            }
+        ]
+    },
+    {
+        "title": "内网 本地",
+        "urls": [
+            {
+                "name": "CecOS",
+                "url": "https://192.168.1.3:8443/#/home"
+            },
+            {
+                "name": "qBittorrent",
+                "url": "http://192.168.1.3:8081/"
+            },
+            {
+                "name": "迅雷下载",
+                "url": "http://192.168.1.3:2345/webman/3rdparty/pan-xunlei-com/index.cgi/#/home"
+            },
+            {
+                "name": "Photosprism",
+                "url": "http://192.168.1.3:2342/library/browse"
+            },
+            {
+                "name": "Jackett",
+                "url": "http://192.168.1.3:9117/UI/Dashboard"
+            },
+            {
+                "name": "AriaNg",
+                "url": "http://192.168.1.3:6880"
+            },
+            {
+                "name": "Emby",
+                "url": "http://192.168.1.3:8097"
+            },
+            {
+                "name": "Jellyfin",
+                "url": "http://192.168.1.3:8096"
+            },
+            {
+                "name": "code-server",
+                "url": "http://192.168.1.3:8090"
+            },
+            {
+                "name": "xTeVe",
+                "url": "http://192.168.1.3:34400/web/"
+            },
+            {
+                "name": "noVNC",
+                "url": "http://192.168.1.3:5901/"
+            },
+            {
+                "name": "Shell",
+                "url": "https://192.168.1.3:4200/"
+            }
+        ]
+    },
+    {
+        "title": "其他",
+        "urls": [
+            {
+                "name": "微博相册",
+                "url": "https://photo.weibo.com/"
+            }
+        ]
+    }
+]

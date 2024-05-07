@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>书签导航</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="./css/zui.min.css">
+	<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/wsj0051/files/img/favicon.ico">
+	<link rel="stylesheet" href="./css/styles.css">
+	<script src="./js/jquery.js"></script>
+	<script src="./js/zui.min.js"></script>
+	<script src="./js/js.js"></script>
+</head>
+
+<body>
+
+	<div id="content" data-customize="true" data-customtheme="true" class="default-bg">
+		<div class="main-index">
+			<div class="container content-box">
+				<!-- 搜索框 start -->
+				<section class="sousuo">
+					<div class="search">
+						<div class="search-box">
+							<div id="search_logo" data-type="bing" class="search-logo bing"></div>
+							<ul id="search_methods" class="search-methods" style="display: none;">
+								<li data-type="bing" class="search-item bing">必应</li>
+								<li data-type="baidu" class="search-item baidu">百度</li>
+								<li data-type="google" class="search-item google">Google</li>
+								<li data-type="develop" class="search-item develop">开发者搜索</li>
+								<li data-type="so" class="search-item so">360搜索</li>
+								<li data-type="sogou" class="search-item sogou">搜狗</li>
+							</ul>
+							<input type="text" id="search_keyword" class="search-input" placeholder="每个人都需要一个自己的导航">
+							<button class="search-btn visible-sm visible-md visible-lg" id="search_submit">搜索</button>
+							<i class="search-clear icon icon-remove-sign" id="clear_keyword" style="display: none;"></i>
+						</div>
+
+						<div class="box search-hot-text">
+							<ul id="search_result" style="display: none;"></ul>
+						</div>
+
+
+					</div>
+				</section>
+
+				<!-- 搜索框 end -->
+				<div class="row dh" id="bookmarks">
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+
+	<footer class="footer text-center bg-white">
+		<span>Copyright ©
+			<script>document.write(new Date().getFullYear());</script> Hosted by <a href="https://github.com/wsj0051"
+				style="color:#8C8C8C;" target="_blank">wsj0051</a>
+		</span>
+	</footer>
+
+	<div id="get-top" title="回到顶部" style="display: none;"><i class="icon icon-arrow-up"></i></div>
+
+</body>
+
+</html>
